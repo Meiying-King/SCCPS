@@ -1,0 +1,2 @@
+# 创建一个索引 index001
+PUT http://localhost:9200/index002
